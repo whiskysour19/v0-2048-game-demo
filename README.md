@@ -1,7 +1,5 @@
 # 2048 game demo
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/whiskysour19s-projects/v0-2048-game-demo)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/yb2g5eO3H9C)
 
@@ -9,26 +7,8 @@
 
 https://v0-2048-game-demo.vercel.app
 
-## Overview
+## For developers / 面向开发者
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/whiskysour19s-projects/v0-2048-game-demo](https://vercel.com/whiskysour19s-projects/v0-2048-game-demo)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/yb2g5eO3H9C](https://v0.app/chat/projects/yb2g5eO3H9C)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- Edit on v0.app / 在 v0.app 上编辑: https://v0.app/chat/projects/yb2g5eO3H9C
+- Vercel dashboard / Vercel 控制台: https://vercel.com/whiskysour19s-projects/v0-2048-game-demo
+- Note / 说明: Changes on v0.app auto-sync to this repo and deploy via Vercel. 在 v0.app 上的更改会自动同步到此仓库并由 Vercel 部署。
